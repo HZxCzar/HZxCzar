@@ -184,6 +184,32 @@ I believe that diverse interests fuel creativity - whether it's the mathematical
 
 ---
 
+## 🌟 Why "HZxCzar"?
+
+<div align="center">
+  
+🏔️ **HZ** + ⚡ **Czar** = 🚀 **HZxCzar**
+
+*From tranquil origins to technological aspirations*
+
+</div>
+
+My username carries personal meaning from two parts of my journey:
+
+**🏞️ HZ** represents my hometown **Huzhou, Zhejiang** (湖州，浙江) - a picturesque city with clear mountains and pristine waters. The slower pace of life there allowed me to experience the simple beauty and authenticity of childhood, shaping my appreciation for both tranquility and depth in everything I pursue.
+
+**⚔️ Czar** has dual significance: I was fascinated by the Desert Emperor (Azir) character in League of Legends during my high school years, drawn to the strategic complexity and elegant gameplay mechanics. In Polish, "czar" means "charm" or "magic" - reflecting my belief that there's something magical about the intersection of technology and human creativity.
+
+<div align="center">
+  
+💭 *"The best technology feels like magic, but it's built on solid foundations"*
+
+</div>
+
+Together, **HZxCzar** represents the blend of my grounded origins and my aspirations to create something impactful and elegant in the world of AI and systems.
+
+---
+
 ## 🤝 Let's Connect!
 
 I'm always excited to discuss AI research, systems programming, or collaborate on interesting projects!
