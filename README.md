@@ -27,6 +27,7 @@ I'm a **third-year undergraduate** at [**ACM Honors Class**](https://acm.sjtu.ed
 
 ### 🏆 Featured Projects
 - **[ASI-Arch](https://github.com/GAIR-NLP/ASI-Arch)**: Autonomous AI systems for neural architecture discovery
+- **[RISC-V CPU](https://github.com/HZxCzar/CPU)**: Advanced CPU with Tomasulo out-of-order execution
 - **[ACore](https://github.com/HZxCzar/ACore)**: Complete operating system kernel implementation
 - **[Imxc](https://github.com/HZxCzar/Imxc)**: Advanced compiler with optimizations
 
