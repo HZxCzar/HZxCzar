@@ -17,19 +17,9 @@
 
 ## 🚀 Quick Overview
 
-I'm a **third-year undergraduate** at [**ACM Honors Class**](https://acm.sjtu.edu.cn/home), Shanghai Jiao Tong University, passionate about advancing artificial intelligence through automated scientific discovery.
+Third-year undergraduate at [**ACM Honors Class**](https://acm.sjtu.edu.cn/home), Shanghai Jiao Tong University, working on AI research and systems programming.
 
-### 🔬 Research Focus
-- 🤖 **Neural Architecture Search & Discovery** (Primary)
-- 🧠 **Large Language Models & Efficient Attention**
-- 🔄 **Automated Scientific Discovery Systems**
-- 💻 **Systems Programming & Infrastructure**
-
-### 🏆 Featured Projects
-- **[ASI-Arch](https://github.com/GAIR-NLP/ASI-Arch)**: Autonomous AI systems for neural architecture discovery
-- **[RISC-V CPU](https://github.com/HZxCzar/CPU)**: Advanced CPU with Tomasulo out-of-order execution
-- **[ACore](https://github.com/HZxCzar/ACore)**: Complete operating system kernel implementation
-- **[Imxc](https://github.com/HZxCzar/Imxc)**: Advanced compiler with optimizations
+**Featured Projects:** [ASI-Arch](https://github.com/GAIR-NLP/ASI-Arch) • [RISC-V CPU](https://github.com/HZxCzar/CPU) • [ACore](https://github.com/HZxCzar/ACore) • [Imxc](https://github.com/HZxCzar/Imxc)
 
 ---
 
@@ -60,18 +50,6 @@ My username carries personal meaning from two parts of my journey:
 </div>
 
 Together, **HZxCzar** represents the blend of my grounded origins and my aspirations to create something impactful and elegant in the world of AI and systems.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HZxCzar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HZxCzar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
