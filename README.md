@@ -1,56 +1,17 @@
-# Hello, I'm HZxCzar
+<h1 align="center">Hi, I'm Weixian Xu 徐为先</h1>
 
-<div align="center">
-  <h3>Self-Evolving AI Researcher</h3>
-  <p><em>Transforming AI from Static Tools into Dynamic Partners</em></p>
-  
-  <p>
-    <a href="https://hzxczar.github.io"><strong>🌐 Visit My Personal Website</strong></a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://hzxczar.github.io/">🌐 Website</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:hz.czar@sjtu.edu.cn">✉️ Email</a>
+</p>
 
----
+I'm a research intern at <img src="https://hzxczar.github.io/assets/images/logos/stanford.svg" height="20" alt="Stanford logo"> **Stanford's SALT Lab** <img src="https://hzxczar.github.io/assets/images/logos/salt.png" height="26" alt="SALT Lab logo">, working with **Prof. Diyi Yang**, and a senior studying Computer Science in the **ACM Honors Class at Shanghai Jiao Tong University** <img src="https://hzxczar.github.io/assets/images/logos/sjtu.png" height="20" alt="SJTU logo">. Previously, I was a remote research intern at **Princeton's AI² Lab** <img src="https://hzxczar.github.io/assets/images/logos/ai2.png" height="20" alt="AI² Lab logo">, working with **Prof. Mengdi Wang**, and a research intern at **GAIR Lab** <img src="https://hzxczar.github.io/assets/images/logos/gair.png" height="22" alt="GAIR Lab logo">, working with **Prof. Pengfei Liu**.
 
-## Quick Overview
+My research explores how AI can think, learn, and understand more effectively. I'm interested in narrowing the gaps between AI and human capabilities, enabling AI to improve itself and better help people.
 
-Third-year undergraduate at the [**ACM Honors Class**](https://acm.sjtu.edu.cn/home), Shanghai Jiao Tong University.
+For more about my research, experience, and projects, visit my **[personal website](https://hzxczar.github.io/)**.
 
-My research pursues the vision of **Self-Evolving AI**—systems that transcend static capabilities to continuously refine their knowledge and memory. Supported by a strong foundation in **Systems Engineering** (OS, Compilers), I aim to build human-centric architectures that grow alongside their users.
+### Why “HZxCzar”?
 
----
-
-## Featured Projects
-
-### AI Research & Autonomous Discovery
-* **[ASI-Arch](https://github.com/GAIR-NLP/ASI-Arch)** (★ **1.1k+ Stars**)
-    <br> *Autonomous Neural Architecture Discovery System.*
-    <br> Designed pipelines executing 1,773 autonomous experiments to discover 105 SOTA architectures.
-
-### Systems Engineering Foundation
-* **[ACore](https://github.com/HZxCzar/ACore)** (Rust)
-    <br> *Comprehensive OS Kernel.* Features virtual memory, process scheduling, and user/kernel isolation.
-* **[Imxc](https://github.com/HZxCzar/Imxc)** (Java)
-    <br> *High-Performance Compiler.* Implements Mem2Reg, Graph Coloring RegAlloc, and advanced optimizations.
-* **[RISC-V CPU](https://github.com/HZxCzar/CPU)** (Verilog)
-    <br> *Tomasulo Architecture Core.* Supports out-of-order execution and dynamic instruction scheduling.
-
----
-
-## The Story Behind "HZxCzar"
-
-My handle is a synthesis of where I come from and a personal hobby from my high school days:
-
-### HZ — Grounded Roots
-**HZ** stands for my hometown—a serene place defined by clear mountains and pristine waters. Growing up there taught me the value of tranquility and authenticity. It serves as a reminder to stay grounded.
-
-### Czar — Strategic Vision
-**Czar** carries a dual significance:
-1.  **The Origin**: It comes from *Azir (The Emperor of the Sands)* in League of Legends. I was a dedicated Azir player in high school, simply because I loved the high mechanical skill cap and the strategic depth required to play him well.
-2.  **The Coincidence**: I later learned that in Polish, *czar* means "charm" or "magic." I found it fitting—technology, at its best, should feel a bit like magic.
-
----
-
-## Contact
-
-- **Email**: [hz.czar@sjtu.edu.cn](mailto:hz.czar@sjtu.edu.cn)
-- **Website**: [HZxCzar.github.io](https://HZxCzar.github.io)
+**HZ** stands for my hometown—a place of clear mountains and waters. **Czar** traces back to high school, when I loved playing Azir, the Emperor of the Sands, in League of Legends. Later, I learned that *czar* means “charm” or “magic” in Polish, which gave the name another meaning I liked.
